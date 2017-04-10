@@ -1,0 +1,6 @@
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\bin\WcfServicio.dll.config
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\bin\WcfServicio.dll
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\bin\WcfServicio.pdb
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\obj\Debug\WcfServicio.csprojResolveAssemblyReference.cache
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\obj\Debug\WcfServicio.dll
+C:\Users\ycaceres\Desktop\Prueba COMER\WcfServicio\WcfServicio\obj\Debug\WcfServicio.pdb
